@@ -129,3 +129,16 @@ dmypy.json
 .pyre/
 
 .vscode/
+
+
+# asset
+asset_model/
+asset_results/
+
+# Config-Net
+3rd_party/
+experiments/
+models/
+
+dataset/
+img/
